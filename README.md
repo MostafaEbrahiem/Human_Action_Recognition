@@ -15,7 +15,7 @@ An android app to predict human action (11 categories) trained on CNN network an
 
 Feel free to use the training code and if you want the model just DM me 
 
-Here's i demo video 
+Here's a demo video 
 
 https://user-images.githubusercontent.com/88105870/139510827-9bffc011-439c-4ac6-8054-1d8e2149e226.mp4
 
